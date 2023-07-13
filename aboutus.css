@@ -1,0 +1,289 @@
+.nav{
+    height: 100px;
+    width: 150px;
+    margin-left: 60px;
+}
+.m1{
+    margin-top: -400px;
+    font-size: 80px;
+}
+.m1:hover{
+    color: #9e4040;
+}
+.line{
+    height: 100px;
+    color: white;
+    font-size: 100px;
+    margin-top: -90px;
+}
+.line:hover{
+    color: #9e4040;
+}
+.imgunder{height: 500px;
+    width: 100%;
+}
+.picunder{
+    font-size: 50px;
+    color: #0e153b;
+}
+.p{
+    font-size: 20px;
+    color: #1d135a;
+    text-align: center;
+    
+}
+.back{
+    height: 400px;
+    width: 100%;
+  
+    background-image: url(https://img.lovepik.com/background/20211020/large/lovepik-blue-technology-background-image_400060931.jpg);
+}
+.back1{
+    height: 400px;
+    width: 50%;
+    /* background: #0e153b; */
+    float: left;
+}
+.back2{
+    height: 400px;
+    width: 50%;
+    /* background: #32343f; */
+    float: left;
+}
+.back3{
+    text-align: justify;
+    padding: 20px;
+    color: #ffffff;
+    font-size: 20px;
+}
+.back4{
+    font-size: 40px;
+}
+/* .nav2{
+    height: 120px;
+    width: 30%;
+    float: left;
+}
+
+.logo{
+    margin: -0px;
+    height: 120px;
+    width: 60%;
+    margin-left: 40px;
+}
+.nav3
+{color: rgb(252, 255, 252);
+    float: left;
+    height: 120px;
+    width: 70%;
+}
+li{
+    display: block;
+    float: left;
+    padding: 10px;
+  list-style-type: none;
+  font-size: 15px;
+  padding-top: 40px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+li:hover{
+    background: #364491;
+} */
+/* .m1{
+    height: 700px;
+    width: 100%;
+    background-color: #364491;
+}
+.it{
+    height: 700px;
+    width: 100%;
+    margin-top: -0px;
+    margin-left: -0px;
+} */
+/* .m1{
+    height: 700px;
+    width: 100%;
+    background-color: rgb(2, 2, 2);
+}
+.it{
+    height: 700px;
+    width: 100%;
+} */
+.m2{
+    height: 700px;
+    width: 100%;
+    /* background-color: blueviolet; */
+}
+.m3{
+    height: 500px;
+    width: 30%;
+    background-color: rgb(17, 30, 88);
+    float: left;
+    margin: 20px;
+    margin-top: 90px;
+}
+.m33{ height: 490px;
+    width: 100%;
+    background-color: rgb(44, 209, 113);
+
+}
+.mm3{
+    height: 245px;
+    width: 100%;
+    /* background-color: blue; */
+}
+.lock{
+margin-top: 60px;
+height: 150px;
+width: 50%;
+margin-left: 120px;
+}
+.web{margin-top: 60px;
+    height: 150px;
+    width: 50%;
+    margin-left: 120px;
+
+}
+.hand{
+    margin-top: 60px;
+height: 150px;
+width: 50%;
+margin-left: 120px;
+}
+.mm33{
+    height: 245px;
+    width: 100%;
+}
+.m4{ height: 500px;
+    width: 30%;
+background-color:rgb(17, 30, 88);
+float: left;
+margin: 20px;
+margin-top: 90px;
+}
+.m44{ height: 490px;
+    width: 100%;
+    background-color: rgb(44, 209, 113);
+}
+.mm4{
+    height: 245px;
+    width: 100%;
+    /* background-color: blue; */
+}
+.mm44{
+    height: 245px;
+    width: 100%;
+}
+.m5{ height: 500px;
+    width: 30%;
+    background-color:  rgb(17, 30, 88);
+    float: left;
+    margin: 20px;
+    margin-top: 90px;
+}
+.m55{ height: 490px;
+    width: 100%;
+    background-color: rgb(44, 209, 113);
+}
+.mm5{
+    height: 245px;
+    width: 100%;
+    /* background-color: blue; */
+}
+.mm55{
+    height: 245px;
+    width: 100%;
+}
+.text{
+    font-size: 20px;
+    margin: 20px;
+    margin-top: -50px;
+}
+h1{
+    font-size: 30px;
+   text-align: center;
+   padding: 50px;
+   
+}
+h2{
+    font-size: 30px;
+   margin: 20px;
+   
+}
+.u{
+    height: 700px;
+    width: 100%;
+    /* background-color: rgb(69, 139, 116); */
+  
+}
+.u1{
+    height: 600px;
+    width: 50%;
+    /* background-color: rgb(65, 43, 10); */
+    float: left;
+   
+}
+.clock{
+    height: 500px;
+    width: 100;
+    /* float: left; */
+}
+.u2{
+    height: 600px;
+    width: 50%;
+    /* background-color: rgb(22, 19, 170); */
+float: left;
+}
+.p1{
+    color: #000000;
+    text-align: center;
+    margin-left: 20px;
+}
+.p2{
+    color: #030303;
+    margin-left: 30px;
+    font-size: 20px;
+    margin-top: 60px;
+}
+.U{
+    height: 100PX;
+    width: 100%;
+    /* background-color: rgb(179, 21, 21); */
+    float: left;
+}
+.U1{
+    font-size: 20px;
+ margin-top: -20px;
+  text-align: center;
+  color: #000;
+   
+}
+.footer{
+    background: #000;
+    margin-top: 20px;
+    height: 300px;
+}
+.f{
+    background: #000;
+    margin-top: 20px;
+    height: 300px;
+}
+.photo{
+    height: 200px;
+    width: 200px;
+    padding-top: 30px;
+}
+.f1{
+    color: white;
+    padding-top: 50px;
+    margin-left: -150px;
+}
+.f2{
+    color: white;
+}
+.photo1{
+    height: 150px;
+    width: 150px;
+margin-left: 10px;
+margin-top: -60px;
+}

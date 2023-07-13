@@ -1,0 +1,137 @@
+.nav{
+    height: 100px;
+    width: 150px;
+    margin-left: 60px;
+}
+.m1{
+    /* background: #000; */
+    height: 100px;
+}
+.t1{
+    color: #000000;
+    text-align: center;
+    padding-top: 15px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.m2{
+    height: 1000px;
+    background: #182636;
+}
+.mm1{
+    background: #0a0e38ab;
+    height: 450px;
+    
+}
+.mm2{
+    background: #0a0e38ab;
+    height: 450px;
+    
+}
+.t2{
+    color: white;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+.pic{
+    height: 80px;
+    width: 80px;
+}
+.t3{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+.t4{
+    color: white;
+    font-size: 20px;
+}
+.t5{
+    text-align: center;
+}
+.m3{
+    height: 100px;
+    padding-top: 20px;
+}
+.double{
+    background:#0a4b88;
+    height: 630px;
+}
+.t6{
+    height: 200px;
+    text-align: center;
+    margin-top: -30px;
+}
+.m4{
+    /* background: #9b8383; */
+    height: 300px;
+    border: 3px solid white;
+    margin-top: 10px;
+}
+.m5{
+    /* background: #8b2020; */
+    height: 300px;
+     border: 3px solid white;
+    margin-top: 10px;
+
+}
+.m6{
+    /* background: #201c1c; */
+    height: 300px;
+     border: 3px solid white;
+    margin-top: 10px;
+
+}
+.m7{
+    /* background: #147e0a; */
+    height: 300px;
+     border: 3px solid white;
+    margin-top: 10px;
+
+}
+.pic1{
+height: 120px;
+width: 100px;
+margin-left: 75px;
+padding-top: 20px;
+}
+.line{
+    height: 100px;
+    color: white;
+    font-size: 100px;
+    text-align: center;
+   margin-top: -30px;
+}
+.t7{
+
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    margin-top: 50px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.footer{
+    background: #000;
+    margin-top: 20px;
+    height: 300px;
+}
+.f{
+    background: #000;
+    margin-top: 20px;
+    height: 300px;
+}
+.photo{
+    height: 200px;
+    width: 200px;
+    padding-top: 30px;
+}
+.f1{
+    color: white;
+    padding-top: 50px;
+}
+.f2{
+    color: white;
+}
+.photo1{
+    height: 150px;
+    width: 150px;
+margin-left: 40px;
+}
